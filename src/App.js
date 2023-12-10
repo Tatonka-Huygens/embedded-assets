@@ -1,4 +1,4 @@
-import logo from"./assets/Logo7.png"
+import logo from "./assets/Logo7.png"
 
 function App() {
   return (
